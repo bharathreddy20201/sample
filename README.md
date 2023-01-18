@@ -1,2 +1,2 @@
 # sample
-this sample sample inro
+this sample
